@@ -1,0 +1,9 @@
+accelerate==1.15.0
+datasets==4.8.5
+huggingface_hub==1.31.0
+matplotlib==3.11.1
+numpy==2.5.3
+pandas==3.0.5
+safetensors==0.8.0
+scipy==1.18.1
+transformers==5.17.0

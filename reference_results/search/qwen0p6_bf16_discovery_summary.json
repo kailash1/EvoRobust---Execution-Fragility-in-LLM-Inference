@@ -1,0 +1,1527 @@
+{
+  "aggregate": {
+    "bc_qd": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 23.428,
+        "mean": 21.9569,
+        "min": 19.794,
+        "sd": 0.8135413100500151
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.686,
+        "mean": 7.418,
+        "min": 7.152,
+        "sd": 0.17191062549445488
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 24.156,
+        "mean": 22.9894,
+        "min": 20.998,
+        "sd": 0.7681121354539185
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 19.493,
+        "mean": 18.7519,
+        "min": 17.579,
+        "sd": 0.5443967109997712
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 9.473,
+        "mean": 7.8755,
+        "min": 7.329,
+        "sd": 0.5061598977647906
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 9.808,
+        "mean": 8.3235,
+        "min": 7.574,
+        "sd": 0.5105958851134005
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 1.9645608691498637,
+        "mean": 1.83159852148965,
+        "min": 1.7099248878657818,
+        "sd": 0.060317902428931224
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 31.359,
+        "mean": 29.2372,
+        "min": 26.851,
+        "sd": 1.0342588294599133
+      }
+    },
+    "bc_qd_cumulative_credit": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 23.766,
+        "mean": 21.9877,
+        "min": 20.612,
+        "sd": 0.8506639574009539
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.686,
+        "mean": 7.4167000000000005,
+        "min": 7.152,
+        "sd": 0.17313733520562583
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 24.968,
+        "mean": 23.1206,
+        "min": 21.708,
+        "sd": 0.885739203627177
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 20.193,
+        "mean": 18.8892,
+        "min": 17.725,
+        "sd": 0.6698706552289347
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 8.667,
+        "mean": 7.8777,
+        "min": 7.211,
+        "sd": 0.40669154223602405
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 9.306,
+        "mean": 8.3201,
+        "min": 7.622,
+        "sd": 0.44794946848477163
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 1.9004900446161628,
+        "mean": 1.7240003318060189,
+        "min": 1.5738812144845724,
+        "sd": 0.08456048093347228
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 31.633,
+        "mean": 29.4425,
+        "min": 27.059,
+        "sd": 1.27742584499989
+      }
+    },
+    "bc_qd_no_boundary": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.9,
+        "min": 27.0,
+        "sd": 0.30779350562554625
+      },
+      "execution_failure_signatures_auc": {
+        "max": 18.718,
+        "mean": 17.6164,
+        "min": 15.439,
+        "sd": 0.8831830828852738
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.432,
+        "mean": 7.1706,
+        "min": 6.894,
+        "sd": 0.1795586401796302
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.9,
+        "min": 29.0,
+        "sd": 0.30779350562554625
+      },
+      "failure_signatures_auc": {
+        "max": 20.086,
+        "mean": 18.689,
+        "min": 16.437,
+        "sd": 0.9476021261445565
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.95,
+        "min": 22.0,
+        "sd": 0.22360679774997896
+      },
+      "fragile_cells_auc": {
+        "max": 16.241,
+        "mean": 15.41705,
+        "min": 13.1,
+        "sd": 0.7840310463106337
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 8.943,
+        "mean": 8.0064,
+        "min": 6.781,
+        "sd": 0.47790115692418417
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 9.252,
+        "mean": 8.492,
+        "min": 7.286,
+        "sd": 0.4833457953626337
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 2.454873524606228,
+        "mean": 2.335885263280943,
+        "min": 2.1667325496673584,
+        "sd": 0.08511876221825246
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 38.6,
+        "min": 37.0,
+        "sd": 0.5982430416161189
+      },
+      "strict_failures_auc": {
+        "max": 24.115,
+        "mean": 22.1911,
+        "min": 19.595,
+        "sd": 1.173358423276402
+      }
+    },
+    "bc_qd_no_coverage": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 23.66,
+        "mean": 21.5371,
+        "min": 20.202,
+        "sd": 0.8874532396873535
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.742,
+        "mean": 7.4713,
+        "min": 7.168,
+        "sd": 0.17186319528839458
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 25.02,
+        "mean": 22.2331,
+        "min": 20.77,
+        "sd": 1.0130305705367955
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 20.403,
+        "mean": 18.0963,
+        "min": 16.667,
+        "sd": 0.8579771252011446
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 8.331,
+        "mean": 7.5297,
+        "min": 6.925,
+        "sd": 0.36361649838083093
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 8.782,
+        "mean": 7.9442,
+        "min": 7.426,
+        "sd": 0.3121820656368062
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 1.0491237165406346,
+        "mean": 1.0229275434277951,
+        "min": 1.0052892891690135,
+        "sd": 0.012850782477013295
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 30.967,
+        "mean": 28.1893,
+        "min": 26.463,
+        "sd": 1.2279419281657291
+      }
+    },
+    "bc_qd_no_novelty": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 23.198,
+        "mean": 21.4878,
+        "min": 19.658,
+        "sd": 0.9171748154551905
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.702,
+        "mean": 7.3574,
+        "min": 6.952,
+        "sd": 0.1906952377072132
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 24.582,
+        "mean": 22.6774,
+        "min": 21.234,
+        "sd": 0.9600579149197196
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 19.855,
+        "mean": 18.5598,
+        "min": 16.863,
+        "sd": 0.8322819360364802
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 8.279,
+        "mean": 7.5044,
+        "min": 6.869,
+        "sd": 0.39095677510435867
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 8.594,
+        "mean": 7.9602,
+        "min": 7.128,
+        "sd": 0.44455673961468867
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 2.3620540788397193,
+        "mean": 2.2528678979258983,
+        "min": 2.154187710955739,
+        "sd": 0.055027837054562274
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 30.623,
+        "mean": 29.2276,
+        "min": 26.703,
+        "sd": 1.2812178581334244
+      }
+    },
+    "bc_qd_static_equal": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 23.268,
+        "mean": 21.4415,
+        "min": 20.022,
+        "sd": 0.8854484144978988
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.63,
+        "mean": 7.3974,
+        "min": 7.08,
+        "sd": 0.17953167144721727
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 24.746,
+        "mean": 22.5553,
+        "min": 20.93,
+        "sd": 1.0547836445651333
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 20.393,
+        "mean": 18.4461,
+        "min": 16.619,
+        "sd": 0.971189932099034
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 8.721,
+        "mean": 7.9463,
+        "min": 7.327,
+        "sd": 0.4512827448390574
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 9.152,
+        "mean": 8.355,
+        "min": 7.76,
+        "sd": 0.4764409722095698
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 1.9785835957154632,
+        "mean": 1.8854210793040693,
+        "min": 1.7605648776516318,
+        "sd": 0.05611270815984919
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 31.347,
+        "mean": 28.7399,
+        "min": 26.609,
+        "sd": 1.2114680915493008
+      }
+    },
+    "boundary_map_elites": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.0,
+        "min": 25.0,
+        "sd": 1.0259783520851542
+      },
+      "execution_failure_signatures_auc": {
+        "max": 17.926,
+        "mean": 14.3266,
+        "min": 11.277,
+        "sd": 2.180593603392868
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.066,
+        "mean": 6.1687,
+        "min": 5.272,
+        "sd": 0.5497763277245719
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 28.7,
+        "min": 26.0,
+        "sd": 1.0809352675491621
+      },
+      "failure_signatures_auc": {
+        "max": 18.97,
+        "mean": 15.081199999999999,
+        "min": 11.39,
+        "sd": 2.4947416193602936
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.1,
+        "min": 20.0,
+        "sd": 0.9119095061289915
+      },
+      "fragile_cells_auc": {
+        "max": 15.889,
+        "mean": 12.4872,
+        "min": 9.562,
+        "sd": 2.0347429062996736
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 10.85,
+        "min": 10.0,
+        "sd": 0.36634754853252327
+      },
+      "fragile_parents_auc": {
+        "max": 8.405,
+        "mean": 6.80595,
+        "min": 5.353,
+        "sd": 0.7967471021201408
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 11.85,
+        "min": 11.0,
+        "sd": 0.36634754853252327
+      },
+      "fragile_states_auc": {
+        "max": 9.088,
+        "mean": 7.32785,
+        "min": 5.778,
+        "sd": 0.796076383203733
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.5469624679535627,
+        "mean": 0.5049252253957093,
+        "min": 0.4742968212813139,
+        "sd": 0.02332832710796265
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 37.25,
+        "min": 33.0,
+        "sd": 1.4823523268955432
+      },
+      "strict_failures_auc": {
+        "max": 23.723,
+        "mean": 18.33045,
+        "min": 13.985,
+        "sd": 3.079727508024729
+      }
+    },
+    "boundary_only": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.8,
+        "min": 26.0,
+        "sd": 0.5231483637805969
+      },
+      "execution_failure_signatures_auc": {
+        "max": 21.298,
+        "mean": 18.7432,
+        "min": 16.068,
+        "sd": 1.5162585045537513
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.698,
+        "mean": 6.9483999999999995,
+        "min": 6.24,
+        "sd": 0.44013088962262126
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.75,
+        "min": 28.0,
+        "sd": 0.6386663736585051
+      },
+      "failure_signatures_auc": {
+        "max": 22.85,
+        "mean": 19.737949999999998,
+        "min": 16.732,
+        "sd": 1.670181851901479
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.9,
+        "min": 21.0,
+        "sd": 0.4472135954999579
+      },
+      "fragile_cells_auc": {
+        "max": 19.339,
+        "mean": 16.2758,
+        "min": 13.791,
+        "sd": 1.4583244025791704
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 10.7,
+        "min": 9.0,
+        "sd": 0.5712405705774793
+      },
+      "fragile_parents_auc": {
+        "max": 7.863,
+        "mean": 6.12,
+        "min": 4.813,
+        "sd": 0.6595215171462926
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 11.7,
+        "min": 10.0,
+        "sd": 0.5712405705774793
+      },
+      "fragile_states_auc": {
+        "max": 8.35,
+        "mean": 6.677,
+        "min": 5.23,
+        "sd": 0.6749144195260689
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.977717942558229,
+        "mean": 0.9276852113660425,
+        "min": 0.8973754160106182,
+        "sd": 0.02336403180088728
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 38.1,
+        "min": 35.0,
+        "sd": 1.4104870379448817
+      },
+      "strict_failures_auc": {
+        "max": 29.907,
+        "mean": 23.8305,
+        "min": 19.697,
+        "sd": 2.8900861852018767
+      }
+    },
+    "boundary_uniform": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.1,
+        "min": 26.0,
+        "sd": 0.7181848464596079
+      },
+      "execution_failure_signatures_auc": {
+        "max": 17.13,
+        "mean": 15.1037,
+        "min": 13.247,
+        "sd": 1.3207367202476525
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 6.83,
+        "mean": 6.4376,
+        "min": 5.672,
+        "sd": 0.33214302562854486
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.0,
+        "min": 27.0,
+        "sd": 0.7947194142390263
+      },
+      "failure_signatures_auc": {
+        "max": 18.024,
+        "mean": 15.8318,
+        "min": 13.42,
+        "sd": 1.4487816151584243
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.7,
+        "min": 22.0,
+        "sd": 0.47016234598162726
+      },
+      "fragile_cells_auc": {
+        "max": 15.593,
+        "mean": 13.5946,
+        "min": 11.497,
+        "sd": 1.2536589563941893
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 10.9,
+        "min": 10.0,
+        "sd": 0.30779350562554625
+      },
+      "fragile_parents_auc": {
+        "max": 9.053,
+        "mean": 7.7807,
+        "min": 6.231,
+        "sd": 0.6826403923466279
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 11.75,
+        "min": 10.0,
+        "sd": 0.5501196042201808
+      },
+      "fragile_states_auc": {
+        "max": 9.778,
+        "mean": 8.11825,
+        "min": 6.782,
+        "sd": 0.801038068285213
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.5269899973645806,
+        "mean": 0.4999980511609465,
+        "min": 0.474160592071712,
+        "sd": 0.014673206927087139
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 37.5,
+        "min": 34.0,
+        "sd": 1.3178930553209383
+      },
+      "strict_failures_auc": {
+        "max": 21.622,
+        "mean": 18.687,
+        "min": 15.362,
+        "sd": 1.7454165239578958
+      }
+    },
+    "corrected_margin_state_major": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 20.196,
+        "mean": 20.196,
+        "min": 20.196,
+        "sd": 0.0
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.404,
+        "mean": 7.404,
+        "min": 7.404,
+        "sd": 0.0
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 21.49,
+        "mean": 21.49,
+        "min": 21.49,
+        "sd": 0.0
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 17.005,
+        "mean": 17.005,
+        "min": 17.005,
+        "sd": 0.0
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 6.435,
+        "mean": 6.435,
+        "min": 6.435,
+        "sd": 0.0
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 7.328,
+        "mean": 7.328,
+        "min": 7.328,
+        "sd": 0.0
+      },
+      "n": 1,
+      "search_cpu_seconds": {
+        "max": 0.496552930213511,
+        "mean": 0.496552930213511,
+        "min": 0.496552930213511,
+        "sd": 0.0
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 26.077,
+        "mean": 26.077,
+        "min": 26.077,
+        "sd": 0.0
+      }
+    },
+    "coverage_only": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.95,
+        "min": 27.0,
+        "sd": 0.22360679774997896
+      },
+      "execution_failure_signatures_auc": {
+        "max": 21.504,
+        "mean": 19.59555,
+        "min": 16.485,
+        "sd": 1.0692726733625995
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.51,
+        "mean": 7.084,
+        "min": 6.438,
+        "sd": 0.2720874472432869
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.95,
+        "min": 29.0,
+        "sd": 0.22360679774997896
+      },
+      "failure_signatures_auc": {
+        "max": 22.598,
+        "mean": 20.57705,
+        "min": 16.997,
+        "sd": 1.1636701230431061
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.95,
+        "min": 22.0,
+        "sd": 0.22360679774997896
+      },
+      "fragile_cells_auc": {
+        "max": 17.947,
+        "mean": 16.70295,
+        "min": 13.94,
+        "sd": 0.8800601938145154
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 9.383,
+        "mean": 8.1009,
+        "min": 7.115,
+        "sd": 0.5918173526920009
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 9.892,
+        "mean": 8.6755,
+        "min": 7.574,
+        "sd": 0.6600851221024852
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 3.600508762523532,
+        "mean": 3.5384163671173154,
+        "min": 3.487530680373311,
+        "sd": 0.026172352046529963
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 38.95,
+        "min": 38.0,
+        "sd": 0.22360679774997896
+      },
+      "strict_failures_auc": {
+        "max": 27.447,
+        "mean": 25.14635,
+        "min": 21.138,
+        "sd": 1.3009172583826747
+      }
+    },
+    "margin_breadth_fixed": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 28.0,
+        "min": 28.0,
+        "sd": 0.0
+      },
+      "execution_failure_signatures_auc": {
+        "max": 13.178,
+        "mean": 13.178,
+        "min": 13.178,
+        "sd": 0.0
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 4.01,
+        "mean": 4.01,
+        "min": 4.01,
+        "sd": 0.0
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 30.0,
+        "min": 30.0,
+        "sd": 0.0
+      },
+      "failure_signatures_auc": {
+        "max": 14.058,
+        "mean": 14.058,
+        "min": 14.058,
+        "sd": 0.0
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 11.509,
+        "mean": 11.509,
+        "min": 11.509,
+        "sd": 0.0
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 6.451,
+        "mean": 6.451,
+        "min": 6.451,
+        "sd": 0.0
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 6.486,
+        "mean": 6.486,
+        "min": 6.486,
+        "sd": 0.0
+      },
+      "n": 1,
+      "search_cpu_seconds": {
+        "max": 0.4371661897748709,
+        "mean": 0.4371661897748709,
+        "min": 0.4371661897748709,
+        "sd": 0.0
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 39.0,
+        "min": 39.0,
+        "sd": 0.0
+      },
+      "strict_failures_auc": {
+        "max": 18.147,
+        "mean": 18.147,
+        "min": 18.147,
+        "sd": 0.0
+      }
+    },
+    "margin_breadth_random": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.6,
+        "min": 25.0,
+        "sd": 0.7539370349250519
+      },
+      "execution_failure_signatures_auc": {
+        "max": 16.044,
+        "mean": 14.4478,
+        "min": 12.334,
+        "sd": 1.2254110631474693
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 4.908,
+        "mean": 4.4577,
+        "min": 3.954,
+        "sd": 0.24472048502214455
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.5,
+        "min": 27.0,
+        "sd": 0.7608859102526822
+      },
+      "failure_signatures_auc": {
+        "max": 17.46,
+        "mean": 15.4362,
+        "min": 12.951,
+        "sd": 1.2894929888995335
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.7,
+        "min": 22.0,
+        "sd": 0.47016234598162726
+      },
+      "fragile_cells_auc": {
+        "max": 14.145,
+        "mean": 12.2459,
+        "min": 10.659,
+        "sd": 0.8794804028216707
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 10.85,
+        "min": 9.0,
+        "sd": 0.4893604849295929
+      },
+      "fragile_parents_auc": {
+        "max": 9.747,
+        "mean": 7.82675,
+        "min": 6.473,
+        "sd": 0.9567456833618738
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 11.85,
+        "min": 10.0,
+        "sd": 0.4893604849295929
+      },
+      "fragile_states_auc": {
+        "max": 10.06,
+        "mean": 8.42295,
+        "min": 6.574,
+        "sd": 0.9848344490853592
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.4880990544334054,
+        "mean": 0.4635212992783636,
+        "min": 0.4455327773466706,
+        "sd": 0.012340037023218398
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 37.95,
+        "min": 36.0,
+        "sd": 0.9445132413883327
+      },
+      "strict_failures_auc": {
+        "max": 21.805,
+        "mean": 18.87845,
+        "min": 16.153,
+        "sd": 1.6273229057177574
+      }
+    },
+    "margin_fail_expand": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.75,
+        "min": 26.0,
+        "sd": 0.5501196042201808
+      },
+      "execution_failure_signatures_auc": {
+        "max": 24.316,
+        "mean": 22.09415,
+        "min": 20.256,
+        "sd": 1.2586316410668918
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.826,
+        "mean": 7.6834999999999996,
+        "min": 7.234,
+        "sd": 0.17030359887410973
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.75,
+        "min": 28.0,
+        "sd": 0.5501196042201808
+      },
+      "failure_signatures_auc": {
+        "max": 25.518,
+        "mean": 23.35605,
+        "min": 21.256,
+        "sd": 1.344568703104613
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 23.0,
+        "min": 23.0,
+        "sd": 0.0
+      },
+      "fragile_cells_auc": {
+        "max": 20.529,
+        "mean": 19.1749,
+        "min": 16.863,
+        "sd": 0.9582414759943286
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 10.8,
+        "min": 9.0,
+        "sd": 0.5231483637805969
+      },
+      "fragile_parents_auc": {
+        "max": 8.757,
+        "mean": 7.1164,
+        "min": 5.985,
+        "sd": 0.8054414546334856
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 11.75,
+        "min": 10.0,
+        "sd": 0.5501196042201808
+      },
+      "fragile_states_auc": {
+        "max": 8.966,
+        "mean": 7.62745,
+        "min": 6.055,
+        "sd": 0.8223413604810927
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.5574667891487479,
+        "mean": 0.5424074248410762,
+        "min": 0.523593652062118,
+        "sd": 0.010474693413945895
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 38.75,
+        "min": 37.0,
+        "sd": 0.5501196042201808
+      },
+      "strict_failures_auc": {
+        "max": 31.731,
+        "mean": 29.67785,
+        "min": 26.915,
+        "sd": 1.426809332410127
+      }
+    },
+    "margin_random_ties": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 27.5,
+        "min": 26.0,
+        "sd": 0.606976978666884
+      },
+      "execution_failure_signatures_auc": {
+        "max": 22.268,
+        "mean": 20.3612,
+        "min": 18.126,
+        "sd": 1.2769267217156897
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.804,
+        "mean": 7.3221,
+        "min": 6.81,
+        "sd": 0.25927305257097916
+      },
+      "failure_signatures": {
+        "max": 30.0,
+        "mean": 29.35,
+        "min": 27.0,
+        "sd": 0.8750939799154206
+      },
+      "failure_signatures_auc": {
+        "max": 23.262,
+        "mean": 21.24315,
+        "min": 18.994,
+        "sd": 1.3212977781034267
+      },
+      "fragile_cells": {
+        "max": 23.0,
+        "mean": 22.7,
+        "min": 21.0,
+        "sd": 0.7326950970650465
+      },
+      "fragile_cells_auc": {
+        "max": 19.263,
+        "mean": 17.3806,
+        "min": 15.211,
+        "sd": 1.1244622761686212
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 10.4,
+        "min": 9.0,
+        "sd": 0.6805570473787206
+      },
+      "fragile_parents_auc": {
+        "max": 6.945,
+        "mean": 6.1157,
+        "min": 5.539,
+        "sd": 0.4286955857752187
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 11.4,
+        "min": 10.0,
+        "sd": 0.6805570473787206
+      },
+      "fragile_states_auc": {
+        "max": 7.736,
+        "mean": 6.6949000000000005,
+        "min": 6.026,
+        "sd": 0.48999161109897416
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.5334926536306739,
+        "mean": 0.5058813416864723,
+        "min": 0.4740447122603655,
+        "sd": 0.015305002951861142
+      },
+      "strict_failures": {
+        "max": 39.0,
+        "mean": 37.7,
+        "min": 34.0,
+        "sd": 1.625455401774498
+      },
+      "strict_failures_auc": {
+        "max": 28.311,
+        "mean": 25.197,
+        "min": 21.927,
+        "sd": 1.8925675125272765
+      }
+    },
+    "novelty_only": {
+      "execution_failure_signatures": {
+        "max": 28.0,
+        "mean": 26.7,
+        "min": 25.0,
+        "sd": 0.8013147091860318
+      },
+      "execution_failure_signatures_auc": {
+        "max": 15.05,
+        "mean": 13.8137,
+        "min": 12.486,
+        "sd": 0.6551568795655779
+      },
+      "execution_families": {
+        "max": 8.0,
+        "mean": 8.0,
+        "min": 8.0,
+        "sd": 0.0
+      },
+      "execution_families_auc": {
+        "max": 7.51,
+        "mean": 7.1465,
+        "min": 6.748,
+        "sd": 0.22742667991430143
+      },
+      "failure_signatures": {
+        "max": 29.0,
+        "mean": 27.7,
+        "min": 26.0,
+        "sd": 0.8013147091860318
+      },
+      "failure_signatures_auc": {
+        "max": 15.353,
+        "mean": 14.1003,
+        "min": 12.905,
+        "sd": 0.6425038275536207
+      },
+      "fragile_cells": {
+        "max": 22.0,
+        "mean": 21.95,
+        "min": 21.0,
+        "sd": 0.22360679774997896
+      },
+      "fragile_cells_auc": {
+        "max": 13.712,
+        "mean": 12.43125,
+        "min": 11.512,
+        "sd": 0.5462398620039598
+      },
+      "fragile_parents": {
+        "max": 11.0,
+        "mean": 11.0,
+        "min": 11.0,
+        "sd": 0.0
+      },
+      "fragile_parents_auc": {
+        "max": 8.759,
+        "mean": 7.9463,
+        "min": 7.389,
+        "sd": 0.3958975279432532
+      },
+      "fragile_states": {
+        "max": 12.0,
+        "mean": 12.0,
+        "min": 12.0,
+        "sd": 0.0
+      },
+      "fragile_states_auc": {
+        "max": 9.248,
+        "mean": 8.3511,
+        "min": 7.726,
+        "sd": 0.383993681417313
+      },
+      "n": 20,
+      "search_cpu_seconds": {
+        "max": 0.9668195666745305,
+        "mean": 0.9493824946228415,
+        "min": 0.9288633614778519,
+        "sd": 0.011133373039939401
+      },
+      "strict_failures": {
+        "max": 35.0,
+        "mean": 33.15,
+        "min": 33.0,
+        "sd": 0.4893604849295929
+      },
+      "strict_failures_auc": {
+        "max": 16.861,
+        "mean": 15.52455,
+        "min": 14.325,
+        "sd": 0.6927559359847489
+      }
+    }
+  },
+  "boundary_pairs": 528,
+  "boundary_parents": 37,
+  "boundary_states": 48,
+  "boundary_threshold": 0.25,
+  "budgets": [
+    25,
+    50,
+    100,
+    250,
+    500
+  ],
+  "full_ablation": true,
+  "landscape": "qwen0p6_bf16_discovery",
+  "matrix": "/home/kailash1/accord/accord_qd/ACCORD_QD_P4_REVIEWER_RESPONSE/results_p4/matrices/qwen0p6_bf16_discovery_global_delta_complete.jsonl",
+  "methods": [
+    "corrected_margin_state_major",
+    "margin_breadth_fixed",
+    "margin_random_ties",
+    "margin_breadth_random",
+    "margin_fail_expand",
+    "boundary_uniform",
+    "boundary_map_elites",
+    "bc_qd",
+    "coverage_only",
+    "novelty_only",
+    "boundary_only",
+    "bc_qd_no_novelty",
+    "bc_qd_no_coverage",
+    "bc_qd_no_boundary",
+    "bc_qd_static_equal",
+    "bc_qd_cumulative_credit"
+  ],
+  "pass": true,
+  "replay_seeds": 20,
+  "suite_cpu_seconds": 381.48878538329154
+}
